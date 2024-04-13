@@ -10,7 +10,7 @@ config_version=5
 
 [application]
 
-config/name="GodotStarter"
+config/name="LD55_Summoning"
 run/main_scene="res://Levels/Intro/SplashScreen.tscn"
 config/features=PackedStringArray("4.2", "Forward Plus")
 

@@ -1,0 +1,8 @@
+[gd_resource type="ShaderMaterial" load_steps=2 format=3 uid="uid://15i80d1fioji"]
+
+[ext_resource type="Shader" path="res://UI/pauseMenuBlur.gdshader" id="1_25led"]
+
+[resource]
+shader = ExtResource("1_25led")
+shader_parameter/blur = 3.482
+shader_parameter/brightness = 0.414
